@@ -19,7 +19,7 @@
 <br>
 
 <!-- Sleek Animated Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nouman-hanifi-77a8bb394)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noumanhanifi2004@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM_USERNAME)
 
@@ -56,7 +56,7 @@ I am a dedicated **Cyber Security student** focused on identifying vulnerabiliti
 
 ---
 
-## 📂 Active Research repositories
+## 📂 Active Research Repositories
 
 ### 🔹 [Academic & Security Infrastructure Projects](https://github.com/NOUMANAHMEDHANIFI/HITEC-Projects)
 *A consolidated tactical workbench showcasing core computer science structures integrated with threat mitigation concepts:*
